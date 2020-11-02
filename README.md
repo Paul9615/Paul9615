@@ -20,6 +20,7 @@
 - 전공지식을 코딩으로 변환하는 작업을 지속적으로 할 예정입니다!
 - 소홀해진 머신러닝 공부를 할 예정입니다! 
 
-연락원하시면:
+연락을 원하시면:
+- open kakaotalk: https://open.kakao.com/o/sEeJV8dc
 - email: rudals901@gmail.com
 - linkedin: https://www.linkedin.com/in/gyeongmin-gu-0183041a8/
