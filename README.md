@@ -5,7 +5,7 @@
 
 - name: Gu gyeongmin (paul)
 - Hometown: Haman, Gyeongsangnam-do, ROK
-- Education: Masan Yongma high school(liberal arts), Jeonbuk national university(Industrial engineering)
+- Education: Masan Yongma high school(89th, liberal arts), Jeonbuk national university(Industrial engineering)
 - Interests: Manufacturing AI, Data mining, Machine learning
 
 Contact:
