@@ -15,6 +15,20 @@ Introduce:
     - Machine learning 
     - Marketing
     - History & Philosophy
++ Projects:
+    - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
+      빅데이터 기반 기업정보 활용 대학생 아이디어 공모전, 한국기업데이터
+    - 2019.05~2019.08 봉사활동 소개 사이트 <봉투> 프론트 엔드, 
+      멋쟁이사자처럼 7기 해커톤, 멋쟁이 사자처럼 
+    - 2019.09 최저시급의 증가에 따른 일자리 수 관계 연구, \
+      경영경제 통계분석 경진대회, 전북대학교 상과대학 (최우수상)
+    - 2019.09 주식데이터분석, \
+      데이터크리에이터 캠프 전북대 예선, NIA 
+    - 2020.01 질병진단을 위한 자연어 데이터셋 기획 제안, \
+      2020 인공지능 데이터셋 경진대회, 셀렉트스타 & NIA 
+    - 2020.08~2020.09 프로야구 승률예측, \
+      2020 빅콘테스트 퓨쳐스리그, NIA
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
