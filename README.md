@@ -9,8 +9,8 @@ Introduce:
     - Jeonbuk national university(Industrial engineering)
 + Interest: 
     - Industrial AI 
-    - Data mining 
-    - Machine learning 
+    - Machine learning
+    - Data Engineering 
     - Marketing
     - History & Philosophy
 + Projects:
