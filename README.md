@@ -5,8 +5,8 @@
 Introduce: 
 + Name: Gu gyeongmin(paul)
 + Education: 
-    - Masan Yongma high school(89th, Liberal arts) 
-    - Jeonbuk national university(Industrial engineering)
+    - Masan Yongma high school (89th, Liberal arts) 
+    - Jeonbuk national university (Industrial information systems engineering)
 + Interest: 
     - Industrial AI 
     - Machine learning
