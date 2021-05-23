@@ -26,6 +26,8 @@ Introduce:
       2020 인공지능 데이터셋 경진대회, 셀렉트스타 & NIA 
     - 2020.08~2020.09 [프로야구 승률예측](https://github.com/NOVUS-JBNU/NOVUS_Futures), \
       2020 빅콘테스트 퓨쳐스리그, NIA
+    - 2021.03~ [전주한옥마을 트램 정거장 최적부지 선정](https://github.com/Ant9615/FinalProject_JBNU_ISE), \
+      전북대학교 산업정보시스템공학과 종합설계프로젝트
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
