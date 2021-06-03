@@ -11,7 +11,7 @@ Introduce:
     - Industrial AI 
     - Machine learning
     - Data Engineering 
-    - Marketing
+    - Operation research
     - History & Philosophy
 + Projects:
     - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
