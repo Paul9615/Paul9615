@@ -3,12 +3,13 @@
 <!--
 **Ant9615/Ant9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Introduce: 
-+ Name: Gu gyeongmin(paul)
++ Name: Gu gyeongmin
 + Education: 
     - Masan Yongma high school (89th, Liberal arts) 
-    - Jeonbuk national university (Industrial information systems engineering)
+    - Jeonbuk national university (B.S. Industrial information systems engineering)
+    - Pusan national university (Artificial intelligence)
 + Interest: 
-    - Industrial AI 
+    - Manufacturing ai 
     - Machine learning
     - Data Engineering 
     - Operation research
