@@ -4,16 +4,19 @@
 **Ant9615/Ant9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 Introduce: 
 + Name: Gu gyeongmin
+
 + Education: 
     - Masan Yongma high school (89th, Liberal arts) 
     - Jeonbuk national university (B.S. Industrial information systems engineering)
     - Pusan national university (Artificial intelligence)
+
 + Interest: 
-    - Manufacturing ai 
+    - Manufacturing AI
     - Machine learning
     - Data Engineering 
     - Operation research
     - History & Philosophy
+
 + Projects:
     - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
       빅데이터 기반 기업정보 활용 대학생 아이디어 공모전, 한국기업데이터
