@@ -11,7 +11,7 @@ Introduce:
     - Pusan national university (Artificial intelligence)
 
 + Interest: 
-    - Manufacturing AI
+    - Manufacturing Intelligence
     - Machine learning
     - Data Engineering 
     - Operation research
