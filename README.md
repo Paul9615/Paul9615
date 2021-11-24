@@ -10,7 +10,7 @@ Introduce:
     - Jeonbuk national university (B.S. Industrial information systems engineering)
     - Pusan national university (Artificial intelligence)
 
-+ Interest: 
++ Interests: 
     - Reinforcement Learning
     - Operation research
     - Edge Computing
