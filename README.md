@@ -11,8 +11,9 @@ Introduce:
     - Pusan national university (Artificial intelligence)
 
 + Interest: 
-    - Machine learning
+    - Reinforcement Learning
     - Operation research
+    - Edge Computing
 
 + Projects:
     - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
