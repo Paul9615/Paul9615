@@ -2,8 +2,9 @@
 
 <!--
 **Ant9615/Ant9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Introduce: 
-+ Name: Gu gyeongmin
+Introduce:\
+\
+Gyeongmin Gu 
 
 + Education: 
     - Masan Yongma high school (89th, Liberal arts) 
