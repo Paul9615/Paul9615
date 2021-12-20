@@ -13,8 +13,9 @@ Gyeongmin Gu
 
 + Interests: 
     - Reinforcement Learning
-    - Operation research
-    - Edge Computing
+    - Operation Research
+    - Mobile Edge Computing
+    - Resource Allocation in Wireless network
 
 + Projects:
     - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
