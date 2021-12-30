@@ -9,11 +9,11 @@ Gyeongmin Gu
 + Education: 
     - Masan Yongma high school (89th, Liberal arts) 
     - Jeonbuk national university (B.S. Industrial information systems engineering)
-    - Pusan national university (Artificial intelligence)
+    - Pusan national university (Dept. of Information convergence engineering A.I. studies(Master course))
 
 + Interests: 
     - Reinforcement Learning
-    - Operation Research
+    - Optimization
     - Mobile Edge Computing
     - Resource Allocation in Wireless network
 
