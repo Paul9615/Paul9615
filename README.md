@@ -12,8 +12,9 @@ Gyeongmin Gu
     - Pusan national university (Dept. of Information convergence engineering A.I. studies(Master course), 2021~)
 
 + Interests: 
-    - Reinforcement Learning
+    - Deep Reinforcement Learning
     - Optimization
+    - Operation Research
     - Mobile Edge Computing
     - Resource Allocation in Wireless network
 
