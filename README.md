@@ -2,11 +2,9 @@
 
 <!--
 **Ant9615/Ant9615** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-Introduce:\
-\
-Gyeongmin Gu 
+### Gyeongmin Gu 
 
-+ Education: 
++ Educations: 
     - Masan Yongma high school (89th, Liberal arts, 2012~2015) 
     - Jeonbuk national university (B.S. Industrial information systems engineering, 2015~2021)
     - Pusan national university (Dept. of Information convergence engineering A.I. studies(Master course), 2021~)
@@ -16,7 +14,7 @@ Gyeongmin Gu
     - Optimization
     - Operation Research
     - Mobile Edge Computing
-    - Resource Allocation in Wireless network
+    - Resource Allocation in Wireless Networks
 
 + Projects:
     - 2019.01~2019.02 서울시 연합기숙사 최적부지 선정, \
