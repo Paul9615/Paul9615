@@ -36,5 +36,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact:<br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeongmin-gu-0183041a8/)](https://www.linkedin.com/in/gyeongmin-gu-0183041a8/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeong-min-gu-0183041a8/)](https://www.linkedin.com/in/gyeong-min-gu-0183041a8/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudals901@gmail.com)](mailto:rudals901@gmail.com)
