@@ -37,3 +37,4 @@
 Contact:<br>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeong-min-gu-0183041a8/)](https://www.linkedin.com/in/gyeong-min-gu-0183041a8/) 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudals901@gmail.com)](mailto:rudals901@gmail.com)
+[![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/and_ant9)](https://www.instagram.com/and_ant9)
