@@ -35,6 +35,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact:<br>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gyeong-min-gu-0183041a8/)](https://www.linkedin.com/in/gyeong-min-gu-0183041a8/) 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rudals901@gmail.com)](mailto:rudals901@gmail.com)
-[![insta](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/and_ant9)](https://www.instagram.com/and_ant9)
+<a href="https://www.linkedin.com/in/gyeong-min-gu-0183041a8" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="mailto:rudals901@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> 
+<a href="https://www.instagram.com/and_ant9" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
