@@ -22,7 +22,7 @@
       전북대학교 산업정보시스템공학과 종합설계프로젝트
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ant9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul9615&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Contact:<br>
 <a href="https://www.linkedin.com/in/gyeong-min-gu-0183041a8" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
