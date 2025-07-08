@@ -4,7 +4,7 @@
 + __Interests__
   - Machine Learning
   - Graph Mining
-  - Bio Medical Engineering
+  - Biomedical Informatics
   - Recommender Systems
   - Data Engineering
   - MLOps
