@@ -3,7 +3,7 @@
 ## Gyeongmin Gu
 + __Interests__
   - Machine Learning
-  - Graph Mining
+  - Data Mining
   - Biomedical Informatics
   - Recommender Systems
   - Data Engineering
