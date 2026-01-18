@@ -10,7 +10,7 @@
   - MLOps
 
 + __Education__
-    -  M.S. Computer Science Engineering, JBNU
+    -  M.S. Computer Science, JBNU
         - DM Lab @ Soogsil Univ. & NLL Lab @ JBNU
     -  B.S. Industrial and Information Systems Engineering, JBNU 
     
