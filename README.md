@@ -9,7 +9,7 @@
   - Data Engineering
   - MLOps
 
-+ __Education__
++ __Educations__
     -  M.S. Computer Science, JBNU
         - DM Lab @ Soogsil Univ. & NLL Lab @ JBNU
     -  B.S. Industrial and Information Systems Engineering, JBNU 
