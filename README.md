@@ -10,6 +10,8 @@
   - MLOps
 
 + __Educations__
+    -  Ph.D. Course, Medical Sciences (Major in Medical Informatics), CUK Medicine
+        - BIDA Lab @ CUK Medicine 
     -  M.S. Computer Science, JBNU
         - DM Lab @ Soogsil Univ. & NLL Lab @ JBNU
     -  B.S. Industrial and Information Systems Engineering, JBNU 
